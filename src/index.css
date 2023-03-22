@@ -71,6 +71,11 @@ body {
   justify-content: space-between;
 }
 
+.delete {
+  color: red;
+  cursor: pointer;
+}
+
 .add-form {
   margin-bottom: 40px;
 }
